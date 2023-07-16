@@ -9,7 +9,7 @@ const Hero = () => {
           <span className="text-tittle">Berbasis Web dan Video</span>
         </p>
         <p className="lg:w-[60%] text-[13px] lg:text-[15px] lg:my-4 my-[10px]">
-          Inovasi modern dalam mengirim undangan acara melalui file elektronik.
+          Inovasi modern dalam mengirim undangan acara melalui web.
           Praktis, ramah lingkungan, dan mudah diperbarui. Ubah cara Anda
           mengirim dan menerima undangan dengan undangan digital.
         </p>
@@ -32,7 +32,7 @@ const Hero = () => {
         className="lg:w-2/4
       "
       >
-        <img src="/HeroKanan.png" alt="" />
+        <img src="/Preview.png" alt="" />
       </div>
     </section>
   );
