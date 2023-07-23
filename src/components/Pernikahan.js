@@ -166,7 +166,7 @@ const Pernikahan = () => {
   ];
 
   return (
-    <section className="mt-10 lg:mt-20 border-t-4 border-t-tittle rounded-3xl bg-[#FFF4F4] w-full px-[20px] py-10" id="pernikahan">
+    <section className="lg:mx-[75px] mx-[10px] mt-10 lg:mt-20 border-t-4 border-t-tittle rounded-3xl bg-[#FFF4F4] w-full px-[20px] py-10" id="pernikahan">
       <p className="text-center font-bold lg:text-[36px] text-tittle">
         Pilihan Terbaik dari <br /> Web Undangan Pernikahan
       </p>

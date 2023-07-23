@@ -1,4 +1,3 @@
-
 import All from "./components/All";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
@@ -7,12 +6,12 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="lg:mx-[75px] lg:mt-[10px] mt-[10px]">
+    <div className=" lg:mt-[10px]  mt-[10px]">
       <Navbar />
       <Hero />
       <Pernikahan />
       <All />
-      <Footer/>
+      <Footer />
     </div>
   );
 }
