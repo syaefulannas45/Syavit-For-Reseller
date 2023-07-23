@@ -7,7 +7,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="lg:mx-[75px] lg:mt-[10px] mx-[10px] mt-[10px]">
+    <div className="lg:mx-[75px] lg:mt-[10px] mt-[10px]">
       <Navbar />
       <Hero />
       <Pernikahan />
