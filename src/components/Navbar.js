@@ -13,7 +13,7 @@ const Navbar = () => {
               alt="logo"
             />
             <p className="text-tittle font-bold lg:text-[36px] text-[25px]">
-              Sebastian
+              SYAZAH
             </p>
           </div>
           <div

@@ -11,7 +11,7 @@ const All = () => {
         urlWeb:
           "https://demo.invee.net/?template=birthday-1&ui=true&cover=image&bgm=soundcloud",
         type: "Best",
-        price: "120K",
+        price: "130K",
       },
       {
         id: 2,
@@ -21,7 +21,7 @@ const All = () => {
         urlWeb:
           "https://demo.invee.net/?template=aqiqah-1&ui=true&cover=image&bgm=soundcloud",
         type: "Best",
-        price: "120K",
+        price: "130K",
       },
       {
         id: 3,
@@ -67,7 +67,7 @@ const All = () => {
             <div className="flex px-[20px] mt-[15px] items-center space-x-3">
               <ReactWhatsapp
                 className="text-white bg-button py-2 px-6 rounded-full"
-                number="+6283827618821"
+                number="+6283173520319"
                 message={`Hallo ka, Saya ingin membeli produk undangan digital ${e.nameWeb} paket ${e.type} dengan harga ${e.price}`}
               >
                 <i class="fa-solid fa-cart-shopping mr-2"></i>
