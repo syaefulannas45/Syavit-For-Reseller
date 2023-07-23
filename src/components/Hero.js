@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section className="lg:mx-[75px] mx-[10px] lg:flex lg:justify-between w-full mt-14 lg:mt-20 flex-col-reverse flex lg:flex-row items-center">
+    <section className="lg:px-[75px] px-[10px] lg:flex lg:justify-between w-full mt-14 lg:mt-20 flex-col-reverse flex lg:flex-row items-center">
       <div className="lg:w-2/4 ml-4 lg:ml-[20px]">
         <p className="font-bold lg:text-[36px] text-text text-[25px] mt-8 lg:mt-0">
           Coba Undangan Digital <br /> <span className="text-tittle">Berbasis Web dan Video</span>

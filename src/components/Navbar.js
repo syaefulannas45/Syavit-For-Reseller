@@ -4,7 +4,7 @@ const Navbar = () => {
   const [toggle, setToggle] = useState(false);
   return (
     <>
-      <section className="lg:mx-[75px] mx-[10px] lg:flex justify-between items-center">
+      <section className="lg:px-[75px] px-[10px] lg:flex justify-between items-center">
         <div className="flex items-center justify-between">
           <div className="flex items-center">
             <img src={"/logo.png"} className="lg:w-[100px] lg:h-[100px] w-[50px] h-[50px]" alt="logo" />
